@@ -1,0 +1,22 @@
+# HTTP client library for making web requests
+httpx==0.27.0
+
+# HTML parsing library
+beautifulsoup4==4.12.3
+
+# OpenAI API client (compatible with DeepSeek)
+openai==1.12.0
+
+# Data analysis library
+pandas==2.2.1
+
+# Data visualization library
+matplotlib==3.9.0
+pyecharts==2.0.4
+
+# Python standard library modules (no installation needed)
+# - sqlite3 (built-in)
+# - json (built-in)
+# - logging (built-in)
+# - random (built-in)
+# - time (built-in)
